@@ -1,0 +1,15 @@
+*.iml
+*.class
+*.lock
+.gradle
+.idea
+.dart_tool
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/android
+/ios
+GeneratedPluginRegistrant.java

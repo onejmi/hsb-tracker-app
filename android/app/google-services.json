@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "435068909033",
+    "firebase_url": "https://bus-tracker-app-37b1b.firebaseio.com",
+    "project_id": "bus-tracker-app-37b1b",
+    "storage_bucket": "bus-tracker-app-37b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435068909033:android:97f3d9a212d62f77",
+        "android_client_info": {
+          "package_name": "io.github.scarger.bus.bustrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435068909033-miipc1m7dlcnf59bl7vbpc84olriadla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9hzf8KqjJNZ6R_HDvLYG5zYPGOffs9gs"
+        },
+        {
+          "current_key": "AIzaSyD9hzf8KqjJNZ6R_HDvLYG5zYPGOffs9gs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
