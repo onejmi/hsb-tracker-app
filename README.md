@@ -2,7 +2,7 @@
 
 An app that tracks school buses so you&#x27;re always on time.
 
-## Technical overview
+## Technical Overview
 Coming soon!
 
 ## Install
