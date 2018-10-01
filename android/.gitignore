@@ -3,13 +3,11 @@
 *.lock
 .gradle
 .idea
-.dart_tool
+/key.properties
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
 /build
 /captures
-/android
-/ios
 GeneratedPluginRegistrant.java
