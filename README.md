@@ -1,8 +1,10 @@
-# bus_tracker_app
+# Halton School Bus Tracker
 
 An app that tracks school buses so you&#x27;re always on time.
 
-## Getting Started
+## Technical overview
+Coming soon!
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## Install
+The app is available [here](https://play.google.com/store/apps/details?id=io.github.scarger.bus.bustrackerapp) for android.
+
